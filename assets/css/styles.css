@@ -1,0 +1,50 @@
+body{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.box1{
+  display: flex;
+}
+.box2{
+  margin-top: 10px;
+}
+.box3{
+  /* border: 2px solid red; */
+  margin-bottom: 50px;
+}
+.box4{
+  display: flex;
+  gap: 30px;
+}
+.box5{
+  display: flex;
+  flex-direction: column;
+
+}
+#chek{
+  height: 20px;
+  margin-top: 18px;
+}
+#btnEli{
+  font-size: 15px;
+  height: 20px;
+  color: red;
+  margin-top: 18px;
+}
+.secSec{
+  display: flex;
+  gap: 200px;
+}
+.secPrin{
+  border: 2px solid black;
+  width: 800px;
+  background-color: rgb(228, 228, 241);
+}
+.box6{
+  margin-left: 15px;
+}
+h1{
+  border-bottom: 1px solid black;
+  width: 700px;
+}
